@@ -19,7 +19,7 @@ This Repository contains the program code that I used to build a Human Resource 
 ## Usage
  Clone the repository :
 ```
-$ git clone https://github.com/Baktho-SN/Human-Resource-Management-System.git
+$ git clone https://github.com/sesha-2k3/Human-Resource-Management-System.git
 ```
  To get SUM file :
  ```
